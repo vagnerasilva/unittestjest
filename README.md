@@ -32,7 +32,6 @@ https://vagnerasilva.github.io/unittestjest/resultado/index.html
 
   https://vagnerasilva.github.io/unittestjest/resultado/index.html
 
-<img src="/vagnerasilva/unittestjest/blob/master/FAIL1.png?raw=true" alt="FAIL1.png">
 
 <img src="https://github.com/vagnerasilva/unittestjest/blob/master/FAIL1.png?raw=true" >
 <img src="https://github.com/vagnerasilva/unittestjest/blob/master/FAIL2.png?raw=true" >
